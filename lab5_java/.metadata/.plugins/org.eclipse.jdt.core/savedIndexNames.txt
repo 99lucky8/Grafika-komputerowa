@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Natka\Desktop\STUDIA\4 semestr\GK\lab5_java\.metadata\.plugins\org.eclipse.jdt.core
+561274552.index
+1865797976.index
+653351475.index
+835058497.index
